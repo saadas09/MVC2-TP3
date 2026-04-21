@@ -1,0 +1,11 @@
+C:\Users\hmssa\eclipse-workspace\MVC2\src\main\java\dao\ProduitDao.java
+C:\Users\hmssa\eclipse-workspace\MVC2\src\main\java\dao\ProduitDaoImpl.java
+C:\Users\hmssa\eclipse-workspace\MVC2\src\main\java\dao\UtilisateurDao.java
+C:\Users\hmssa\eclipse-workspace\MVC2\src\main\java\dao\UtilisateurDaoImpl.java
+C:\Users\hmssa\eclipse-workspace\MVC2\src\main\java\model\Produit.java
+C:\Users\hmssa\eclipse-workspace\MVC2\src\main\java\model\Utilisateur.java
+C:\Users\hmssa\eclipse-workspace\MVC2\src\main\java\service\ProduitService.java
+C:\Users\hmssa\eclipse-workspace\MVC2\src\main\java\service\UtilisateurService.java
+C:\Users\hmssa\eclipse-workspace\MVC2\src\main\java\util\HibernateUtil.java
+C:\Users\hmssa\eclipse-workspace\MVC2\src\main\java\web\AuthServlet.java
+C:\Users\hmssa\eclipse-workspace\MVC2\src\main\java\web\ProduitServlet.java

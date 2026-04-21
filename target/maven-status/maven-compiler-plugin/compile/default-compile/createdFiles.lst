@@ -1,0 +1,11 @@
+dao\UtilisateurDao.class
+web\AuthServlet.class
+model\Utilisateur.class
+dao\ProduitDao.class
+dao\ProduitDaoImpl.class
+service\UtilisateurService.class
+service\ProduitService.class
+util\HibernateUtil.class
+web\ProduitServlet.class
+dao\UtilisateurDaoImpl.class
+model\Produit.class
